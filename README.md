@@ -129,4 +129,6 @@ PGP encryption is crucial for secure communication.
 Dark web shopping can be risky. By following these dark web shopping tips, prioritizing security, using encryption, and being aware of scams, you can improve your safety. Always verify URLs, use strong encryption, and remain vigilant to ensure a secure and successful shopping experience.
 Plase contribute and add stars to this repo.
 
-Update: Link is now available and working
+
+
+Update: link is up and running again
