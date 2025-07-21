@@ -131,4 +131,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: link is up and running again
+
+
+Update: link is reachable
